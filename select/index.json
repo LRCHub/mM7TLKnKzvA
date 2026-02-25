@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】Boi / Covered by 花鋏キョウ【ポリスピカデリー】",
+  "base_artist": "歌ってみた(Cover Song)",
+  "createdAt": "2026-02-25T14:44:53.591534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_Sk8er_Boi_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eyebrows Down (feat. Dolla Boy & Tity Boi)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/02_Eyebrows_Down_(feat._Dolla_Boy_&_Tity_Boi)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Got (feat. Chingy, I-20 & Tity Boi)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/03_We_Got_(feat._Chingy,_I-20_&_Tity_Boi)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bang!!!! (feat. Titi Boi & Salo)",
+      "artist": "Lloyd",
+      "has_synced": true,
+      "path": "select/04_Bang!!!!_(feat._Titi_Boi_&_Salo)_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All N My Grill (feat. Big Boi)",
+      "artist": "Missy Elliott feat. Big Boi",
+      "has_synced": false,
+      "path": "select/05_All_N_My_Grill_(feat._Big_Boi)_Missy_Elliott_feat._Big_Boi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All N My Grill (feat. Big Boi & Nicole Wray)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/06_All_N_My_Grill_(feat._Big_Boi_&_Nicole_Wray)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "D-Boi - Interlude",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/07_D-Boi_-_Interlude_OutKast.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "D-Boi (Interlude)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/08_D-Boi_(Interlude)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Getcha Boi",
+      "artist": "Bicep",
+      "has_synced": false,
+      "path": "select/09_Getcha_Boi_Bicep.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Came to Bring The Pain (featuring Ludacris, Static & Tity Boi)",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/10_I_Came_to_Bring_The_Pain_(featuring_Ludacris,_Static_&_Tity_Boi)_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BIG BOI",
+      "artist": "ABRA feat. Tommy Genesis",
+      "has_synced": true,
+      "path": "select/11_BIG_BOI_ABRA_feat._Tommy_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "L8r Boi",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/12_L8r_Boi_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sk8er boi",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/13_Sk8er_boi_Cascada.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/14_Sk8er_Boi_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Annie Goodchild",
+      "has_synced": true,
+      "path": "select/15_Sk8er_Boi_Scott_Bradlee's_Postmodern_Jukebox_feat._Annie_Goodchild.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/16_Sk8er_Boi_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Yeah Yeah (Remix) (feat. Tity Boi)",
+      "artist": "Future feat. Tity Boi",
+      "has_synced": false,
+      "path": "select/17_Yeah_Yeah_(Remix)_(feat._Tity_Boi)_Future_feat._Tity_Boi.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Yeah Yeah (Remix) (feat. Tity Boi)",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/18_Yeah_Yeah_(Remix)_(feat._Tity_Boi)_Future.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Boi! (feat. Gucci Mane)",
+      "artist": "Young Problemz feat. Mike Jones & Gucci Mane",
+      "has_synced": false,
+      "path": "select/19_Boi!_(feat._Gucci_Mane)_Young_Problemz_feat._Mike_Jones_&_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Out at Night (feat. KYLE & Big Boi)",
+      "artist": "Clean Bandit feat. KYLE & Big Boi",
+      "has_synced": true,
+      "path": "select/20_Out_at_Night_(feat._KYLE_&_Big_Boi)_Clean_Bandit_feat._KYLE_&_Big_Boi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boi(cover)",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/pl_01_Boi(cover)_Gero.txt"
+    }
+  ]
+}
